@@ -8,11 +8,6 @@ I'm AlfredChester, a high school student, currently living in Shanghai.
 -   :seedling: A high school student in @CYEZOI;
 -   :man: Pronouns: he/him;
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlfredChester">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlfredChester">
-</p>
-
 <h1 align="center" style="margin-top: 30px;">
     Reach me on 
     <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
