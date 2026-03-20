@@ -3,9 +3,9 @@
 <!-- <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=AlfredChester&theme=tokyonight&show_icons=true"> -->
 
 I'm AlfredChester, a high school student, currently living in Shanghai.
--   :hammer_and_pick: C++ / Python / JavaScript;
--   💡 Contributor of [luogu-dev/cyaron](https://github.com/luogu-dev/cyaron/);
--   :seedling: A high school student in @CYEZOI;
+-   :hammer_and_pick: C++ / Python / Typescript;
+-   💡 Contributor to [luogu-dev/cyaron](https://github.com/luogu-dev/cyaron/);
+-   :seedling: A high school student at @CYEZOI;
 -   :man: Pronouns: he/him;
 
 <div align="center"> 
