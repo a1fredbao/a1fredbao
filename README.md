@@ -1,8 +1,8 @@
-## Hey, AlfredChester here! :wave:
+## Hey, Alfred Bao here! :wave:
 
 <!-- <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=AlfredChester&theme=tokyonight&show_icons=true"> -->
 
-I'm AlfredChester, a high school student, currently living in Shanghai.
+I'm Alfred Bao, a high school student, currently living in Shanghai.
 -   :hammer_and_pick: C++ / Python / Typescript;
 -   💡 Contributor to [luogu-dev/cyaron](https://github.com/luogu-dev/cyaron/);
 -   :seedling: A high school student at @CYEZOI;
