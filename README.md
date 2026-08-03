@@ -9,7 +9,7 @@ My personal website: [https://alfredbao.cn](https://alfredbao.cn)
 -   :hammer_and_pick: C++ / Python / Typescript;
 -   :bulb: Contributor to [luogu-dev/cyaron](https://github.com/luogu-dev/cyaron/);
 -   :school: A Grade 10 student at @CYEZOI (Shanghai Caoyang No.2 Middle School);
--   :computer: An OIer and ACMer. (~~Former~~ UCup team: [maze.size](https://contest.ucup.ac/user/profile/ucup-team7701))
+-   :computer: ~~Formally~~ An OIer and ACMer. ~~(UCup team: [maze.size](https://contest.ucup.ac/user/profile/ucup-team7701))~~
 
 [![codeforces](https://cfrating.baoshuo.dev/rating?username=Dr.Alfred)](https://codeforces.com/profile/Dr.Alfred)
 
